@@ -11,7 +11,7 @@ import PayPal from './assets/PayPal.png';
 import Galochka from './assets/galochka.png';
 
 
-const API_BASE = "https://localhost:7295";
+const API_BASE = "https://mymarket.somee.com";
 const FALLBACK_IMG = "https://via.placeholder.com/600x400?text=No+Image";
 const TOKEN_KEY = "userAccessToken";
 const CART_KEY = "cart";

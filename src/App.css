@@ -823,6 +823,10 @@ input {
   .product-details-name {
     font-size: 22px;
   }
+  .advertisements img {
+    width: 520px;
+    height: 200px;
+  }
 }
 @media (max-width: 600px) {
   .grid {
@@ -830,7 +834,7 @@ input {
   }
 
   .topbar {
-    width: 320px;
+    width: 100%;
     flex-direction: column;
     gap: 10px;
     height: 150px;
